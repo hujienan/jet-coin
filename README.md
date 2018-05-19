@@ -13,4 +13,4 @@ npm install
 
 #### 3. Run it
 
-- `npm start`
+`npm start`
