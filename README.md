@@ -1,4 +1,4 @@
-# JienanCoin
+# jet-coin
 Create a blockchain using js
 
 ## How to test it?
